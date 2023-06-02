@@ -10,14 +10,15 @@ MuseGAN：用于符号音乐生成和伴奏的多轨序列生成对抗网络。
 
 ## Paper
 
-### English Original Version
+- ### English Original Version
 
 EN-MuseGAN Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment.pdf [[Link](https://github.com/prodbyido/Review-MuseGAN/blob/main/EN-MuseGAN%20Multi-track%20Sequential%20Generative%20Adversarial%20Networks%20for%20Symbolic%20Music%20Generation%20and%20Accompaniment.pdf)]
 
-### Simplified Chinese Translation Version
+- ### Simplified Chinese Translation Version
 
 CN-MuseGAN Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment.pdf [[Link](https://github.com/prodbyido/Review-MuseGAN/blob/main/CN-MuseGAN%20Multi-track%20Sequential%20Generative%20Adversarial%20Networks%20for%20Symbolic%20Music%20Generation%20and%20Accompaniment.pdf)]
 
 ## Goals
 使用带有卷积神经网络的GAN生成以钢琴卷帘格式为基础的多轨流行音乐。
 
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Goals.jpg)

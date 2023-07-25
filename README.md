@@ -22,3 +22,7 @@ CN-MuseGAN Multi-track Sequential Generative Adversarial Networks for Symbolic M
 使用带有卷积神经网络的GAN生成以钢琴卷帘格式为基础的多轨流行音乐。
 
 ![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Goals.jpg)
+
+## Model
+
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/MuseGAN_Model.png)

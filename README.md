@@ -21,8 +21,31 @@ CN-MuseGAN Multi-track Sequential Generative Adversarial Networks for Symbolic M
 ## Goals
 使用带有卷积神经网络的GAN生成以钢琴卷帘格式为基础的多轨流行音乐。
 
-![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Goals.jpg)
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Goals.png)
 
 ## Model
 
-![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/MuseGAN_Model.png)
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Model.png)
+
+## Challenge
+
+- ### 多轨之间具有相互依赖性
+
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Multi-track.png)
+
+- ### 生成的音乐需具备和谐统一韵感
+
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Multi-track.png)
+
+- ### 具有复杂的时间结构
+
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Music%20Texture.png)
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Temporal%20Structure.png)
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Fixed%20Structure.png)
+
+## Data Representation
+
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Data%20Representation-1.png)
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Data%20Representation-2.png)
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Data%20Representation-3.png)
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Data%20Representation-4.png)

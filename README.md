@@ -35,11 +35,10 @@ CN-MuseGAN Multi-track Sequential Generative Adversarial Networks for Symbolic M
 
 - ### 生成的音乐需具备和谐统一韵感
 
-![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Multi-track.png)
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Music%20Texture.png)
 
 - ### 具有复杂的时间结构
 
-![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Music%20Texture.png)
 ![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Temporal%20Structure.png)
 ![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Fixed%20Structure.png)
 

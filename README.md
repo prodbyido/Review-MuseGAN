@@ -48,3 +48,8 @@ CN-MuseGAN Multi-track Sequential Generative Adversarial Networks for Symbolic M
 ![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Data%20Representation-2.png)
 ![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Data%20Representation-3.png)
 ![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Data%20Representation-4.png)
+
+## Results
+
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Evolution.png)
+![image](https://github.com/prodbyido/Review-MuseGAN/blob/main/Image/Hybrid.png)
